@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://acremant.github.io/sitemap.html.gz
+Sitemap: https://acremant.github.io/app/sitemap.html.gz
+Sitemap: https://acremant.github.io/assets/sitemap.html.gz
+Sitemap: https://acremant.github.io/css/sitemap.html.gz
+Sitemap: https://acremant.github.io/includes/sitemap.html.gz
+Sitemap: https://acremant.github.io/item/sitemap.html.gz
+Sitemap: https://acremant.github.io/src/sitemap.html.gz
